@@ -1,0 +1,1 @@
+# sarki_secim_prec
