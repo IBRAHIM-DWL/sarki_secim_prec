@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "mysql22";
-$dbname = "sarki_secim";
+$password = "VeritabanıSifresi";
+$dbname = "VeritabaniAdi";
 
 session_start();
 
